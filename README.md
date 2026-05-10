@@ -111,7 +111,7 @@ Aspiring Data Analyst / SQL Developer
 
 Open CMD or Git Bash and run:
 
-git clone https://github.com/2216072-debug/Social_media.git
+git clone https://github.com/2216072-debug/Socail_media.git
 
 ### Step 2 — Open Project Folder
 
